@@ -1,0 +1,24 @@
+My favorite editor is Visual Studio Code. 
+
+Reason 1 - Can utilize different terminals simultaneously
+
+Foremost, Visual Studio Code is versatile because it has built-in terminals to replicate different virtual environments. 
+For instance, it can simulate a Linux-based terminal such as a windows subsystem for Linux to execute commands regardless 
+of a computer's operating system. Moreover, it can also access the default terminal for an operating system such as the 
+command line for Windows. Furthermore, it is capable of both displaying and running coroutines with multiple terminals simultaneously. 
+Lastly, it could also create different terminal instances through its user interface without running and executing commands and scripts, respectively.
+
+Reason 2 - Capable of supporting multiple programming languages
+
+Visual Studio Code is also flexible in handling different programming languages. For instance, it supports editing 
+functionality for Python, C++, C, C#, HTML/CSS, and many other languages. Furthermore, it displays source code with 
+color-coding text for programming language-specific syntax. Moreover, it also utilizes auto-completion commands for 
+boilerplates to accelerate the process of coding. Lastly, it can also predict syntax for variables, methods, and functions. 
+
+Reason 3 - Possesses built-in debugging breakpoints and text comparison features/ version control features
+
+Moreover, Visual Studio Code has multipurpose functions such as possessing built-in debugging breakpoints and version 
+control features. The built-in debugging breakpoints assist in identifying various errors such as syntax errors, 
+compilation errors, and run-time errors. Visual Studio displays these debugging breakpoints in a source code file and a terminal. 
+Furthermore, Visual Studio Code's version control features are capable of understanding file changes following git updates. 
+It also provides a UI to accept incoming and existing file changes.
